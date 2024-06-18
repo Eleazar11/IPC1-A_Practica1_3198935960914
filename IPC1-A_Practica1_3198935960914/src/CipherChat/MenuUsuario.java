@@ -83,6 +83,5 @@ public class MenuUsuario extends JFrame implements ActionListener {
         }
     }
 
-    // Método para abrir la ventana de contactos
     
 }
