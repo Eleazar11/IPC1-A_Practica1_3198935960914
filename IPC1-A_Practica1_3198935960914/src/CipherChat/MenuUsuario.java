@@ -83,5 +83,4 @@ public class MenuUsuario extends JFrame implements ActionListener {
         }
     }
 
-    
 }
